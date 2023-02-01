@@ -1,4 +1,4 @@
-"name","size","price","description","colors"
-Chaussure de course,9,100,""Chaussure de course confortable pour les longues distances"",Bleu
-T-shirt à manches longues,L,20,""T-shirt à manches longues en coton doux et confortable"",Noir
-Sac à dos,M,50,""Sac à dos pratique pour les sorties en plein air"",Vert
+name,size,price,description,colors
+Chaussure de course,9,100,Chaussure de course confortable pour les longues distances,Bleu
+T-shirt à manches longues,L,20,T-shirt à manches longues en coton doux et confortable,Noir
+Sac à dos,M,50,Sac à dos pratique pour les sorties en plein air,Vert
